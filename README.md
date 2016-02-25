@@ -16,6 +16,15 @@ Other versions will be uploaded soon.
 ####Video Demo - NANS Technology with In-Vehicle Infotainment System
 [![Video Demo](https://github.com/rubis-lab/images/blob/master/NANS%20Technology%20with%20In-Vehicle%20Infotainment%20System.PNG)](https://youtu.be/KTYCjc8aoMU "NANS Technology with In-Vehicle Infotainment System")
 
+## For Developers
+Please be aware installing NANS Android requires to build the whole Android platform and flash it to a device. RUBIS Lab does not take any responsibility for results of flashing your device.
+NANS Android consists of two parts: framework modification and client application for controling NANS. To download NANS Android execute:
+
+    repo init -u https://github.com/rubis/N-App-N-Screen-Android.git
+    repo sync
+
+For more information about building Android please see https://source.android.com/source/building.html.
+
 ## Licence
 Projects:
 * https://github.com/rubis-lab/N-App-N-Screen-Android 
@@ -26,7 +35,8 @@ Projects:
 are released under [Apache 2.0 Licence] (http://www.apache.org/licenses/LICENSE-2.0.html).
 
 ## Community
-You can ask questions or suggestion on our google group: [RUBIS (https://groups.google.com/forum/#!forum/n-app-n-screen-android)](https://groups.google.com/forum/#!forum/n-app-n-screen-android)
+You can ask questions or suggestions on our google group: 
+https://groups.google.com/forum/#!forum/n-app-n-screen-android
 
 ## About RUBIS Lab.
 RUBIS Lab. is a "Real-time UBiquitous Systems Laboratory" at Seoul National Univercity, Korea.
