@@ -18,8 +18,10 @@ Other versions will be uploaded soon.
 
 ## Licence
 Projects:
-* https://github.com/rubis-lab/N-App-N-Screen-Android-manifest
-
+* https://github.com/rubis-lab/N-App-N-Screen-Android 
+* https://github.com/rubis-lab/NANS_platform_frameworks_base
+* https://github.com/rubis-lab/NANS_platform_frameworks_native
+* https://github.com/rubis-lab/NANS_platform_packages_apps_settings
 
 are released under [Apache 2.0 Licence] (http://www.apache.org/licenses/LICENSE-2.0.html).
 
