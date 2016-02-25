@@ -18,7 +18,8 @@ Other versions will be uploaded soon.
 
 ## For Developers
 Please be aware installing NANS Android requires to build the whole Android platform and flash it to a device. RUBIS Lab does not take any responsibility for results of flashing your device.
-NANS Android consists of two parts: framework modification and client application for controling NANS. To download NANS Android execute:
+NANS Android consists of two parts: framework modification and client application for controling NANS. Before you download, you need to install 'Repo'. For information about downloading Android, please see https://source.android.com/source/downloading.html
+To download NANS Android execute:
 
     repo init -u https://github.com/rubis/N-App-N-Screen-Android.git
     repo sync
