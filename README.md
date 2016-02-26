@@ -9,10 +9,10 @@ This is Android 5.1.1(Lollipop) branch.
 - Supports Miracast / MHL-HDMI
 - Supports external input devices, resolution adaptation and audio source change
 
-####Video Demo - NANS for In-Vehicle Infotainment System
+- Video Demo I - NANS for In-Vehicle Infotainment (IVI) system
 [![Video Demo](https://github.com/rubis-lab/images/blob/master/NANS%20Technology%20with%20In-Vehicle%20Infotainment%20System.PNG)](https://youtu.be/KTYCjc8aoMU "NANS Technology with In-Vehicle Infotainment System")
 
-####Video Demo - NANS Control for Android
+- Video Demo II - NANS control for Android
 [![Video Demo](https://github.com/rubis-lab/images/blob/master/N-App%20N-Screen%20Control%20on%20Android.PNG)](https://youtu.be/Y-TmMn7kuhU "N-App N-Screen Control on Android by SNU")
 
 ## For Developers
