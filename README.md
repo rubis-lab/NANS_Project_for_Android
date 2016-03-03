@@ -4,11 +4,11 @@ Currently NANS project supports Android 5.1.1, 5.0.1(Lollipop), 4.4.2 (KitKat) a
 This is Android 5.1.1(Lollipop) branch. 
 
 ## Video Demo
-- "N-App N-Screen Control on Android by SNU"
-[![Video Demo](https://github.com/rubis-lab/images/blob/master/NANS%20Technology%20with%20In-Vehicle%20Infotainment%20System.PNG)](https://youtu.be/KTYCjc8aoMU "NANS Technology with In-Vehicle Infotainment System")
-
 - "NANS Technology with In-Vehicle Infotainment System" 
-[![Video Demo](https://github.com/rubis-lab/images/blob/master/N-App%20N-Screen%20Control%20on%20Android.PNG)](https://youtu.be/Y-TmMn7kuhU "N-App N-Screen Control on Android by SNU")
+[![Video Demo](https://github.com/rubis-lab/images/blob/master/NANS.Technology.with.In-Vehicle.Infotainment.System.PNG)](https://youtu.be/Y-TmMn7kuhU "N-App N-Screen Control on Android by SNU")
+
+- "N-App N-Screen Control on Android by SNU"
+[![Video Demo](https://github.com/rubis-lab/images/blob/master/N-App.N-Screen.Control.on.Android.PNG)](https://youtu.be/KTYCjc8aoMU "NANS Technology with In-Vehicle Infotainment System")
 
 ## Features
 - Android-based mobile technology
