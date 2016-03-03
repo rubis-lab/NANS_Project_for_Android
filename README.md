@@ -31,7 +31,7 @@ To download NANS Android execute:
     repo init -u https://github.com/rubis/nans_project_for_android.git
     repo sync
 
-For more information about building Android please see https://source.android.com/source/building.html.
+For more information about building Android please see https://github.com/rubis-lab/NANS_Project_for_Android/wiki.
 
 ## Licence
 Our projects are released under [Apache 2.0 Licence] (http://www.apache.org/licenses/LICENSE-2.0.html).
