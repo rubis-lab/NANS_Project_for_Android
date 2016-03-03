@@ -39,6 +39,7 @@ Our projects are released under [Apache 2.0 Licence] (http://www.apache.org/lice
 * https://github.com/rubis-lab/NANS_frameworks_base
 * https://github.com/rubis-lab/NANS_frameworks_native
 * https://github.com/rubis-lab/NANS_packages_apps_settings
+* https://github.com/rubis-lab/NANS_hardware_libhardware_legacy
 
 ## Community
 You can ask questions or suggestions on our google group: 
