@@ -3,17 +3,25 @@ NANS (N-App N-Screen) project for Android is a modification of Android Framework
 Currently NANS project supports Android 5.1.1, 5.0.1(Lollipop), 4.4.2 (KitKat) and 4.2.2 (Jelly Bean). 
 This is Android 5.1.1(Lollipop) branch. 
 
+## Video Demo
+- "NANS Technology with In-Vehicle Infotainment System" 
+[![Video Demo](https://github.com/rubis-lab/images/blob/master/NANS.Technology.with.In-Vehicle.Infotainment.System.PNG)](https://youtu.be/Y-TmMn7kuhU "N-App N-Screen Control on Android by SNU")
+
+- "N-App N-Screen Control on Android by SNU"
+[![Video Demo](https://github.com/rubis-lab/images/blob/master/N-App.N-Screen.Control.on.Android.PNG)](https://youtu.be/KTYCjc8aoMU "NANS Technology with In-Vehicle Infotainment System")
+
 ## Features
 - Android-based mobile technology
 - Supports voice control and external input control
 - Supports Miracast / MHL-HDMI
 - Supports external input devices, resolution adaptation and audio source change
 
-- Video Demo I - NANS for In-Vehicle Infotainment (IVI) system
-[![Video Demo](https://github.com/rubis-lab/images/blob/master/NANS%20Technology%20with%20In-Vehicle%20Infotainment%20System.PNG)](https://youtu.be/KTYCjc8aoMU "NANS Technology with In-Vehicle Infotainment System")
+####5.1.1 Lollipop Update
+- Supports individual stacks for each display
+- Supports Full HD Projection
 
-- Video Demo II - NANS control for Android
-[![Video Demo](https://github.com/rubis-lab/images/blob/master/N-App%20N-Screen%20Control%20on%20Android.PNG)](https://youtu.be/Y-TmMn7kuhU "N-App N-Screen Control on Android by SNU")
+## What we modified?
+![NANS](https://github.com/rubis-lab/images/blob/master/NANS.Android.Modification.Parts.png)
 
 ## For Developers
 Please be aware installing NANS Project requires to build the whole Android platform and flash it to a device. RUBIS Lab does not take any responsibility for results of flashing your device.
@@ -23,14 +31,15 @@ To download NANS Android execute:
     repo init -u https://github.com/rubis/nans_project_for_android.git
     repo sync
 
-For more information about building Android please see https://source.android.com/source/building.html.
+For more information, please see this project's Wiki : https://github.com/rubis-lab/NANS_Project_for_Android/wiki.
 
 ## Licence
 Our projects are released under [Apache 2.0 Licence] (http://www.apache.org/licenses/LICENSE-2.0.html).
 * https://github.com/rubis-lab/NANS_Project_for_Android 
-* https://github.com/rubis-lab/NANS_platform_frameworks_base
-* https://github.com/rubis-lab/NANS_platform_frameworks_native
-* https://github.com/rubis-lab/NANS_platform_packages_apps_settings
+* https://github.com/rubis-lab/NANS_frameworks_base
+* https://github.com/rubis-lab/NANS_frameworks_native
+* https://github.com/rubis-lab/NANS_packages_apps_settings
+* https://github.com/rubis-lab/NANS_hardware_libhardware_legacy
 
 ## Community
 You can ask questions or suggestions on our google group: 
@@ -46,3 +55,4 @@ You may contact Ohchul Kwon <ockwon@rubis.snu.ac.kr> for any questions you may h
 ## About RUBIS Lab.
 RUBIS Lab. is a "Real-time UBiquitous Systems Laboratory" at Seoul National Univercity, Korea.
 We are researching and developing technologies in embedded systems such as smartphones and ECUs.
+Webpage: http://rubis.snu.ac.kr
