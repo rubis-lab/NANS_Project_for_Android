@@ -5,10 +5,10 @@ This is Android 5.1.1(Lollipop) branch.
 
 ## Video Demo
 - "NANS Technology with In-Vehicle Infotainment System" 
-[![Video Demo](https://github.com/rubis-lab/images/blob/master/NANS.Technology.with.In-Vehicle.Infotainment.System.PNG)](https://youtu.be/Y-TmMn7kuhU "N-App N-Screen Control on Android by SNU")
+[![Video Demo](https://github.com/rubis-lab/images/blob/NANS/NANS.Technology.with.In-Vehicle.Infotainment.System.PNG)](https://youtu.be/Y-TmMn7kuhU "N-App N-Screen Control on Android by SNU")
 
 - "N-App N-Screen Control on Android by SNU"
-[![Video Demo](https://github.com/rubis-lab/images/blob/master/N-App.N-Screen.Control.on.Android.PNG)](https://youtu.be/KTYCjc8aoMU "NANS Technology with In-Vehicle Infotainment System")
+[![Video Demo](https://github.com/rubis-lab/images/blob/NANS/N-App.N-Screen.Control.on.Android.PNG)](https://youtu.be/KTYCjc8aoMU "NANS Technology with In-Vehicle Infotainment System")
 
 ## Features
 - Android-based mobile technology
