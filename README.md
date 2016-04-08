@@ -21,7 +21,7 @@ This is Android 5.1.1(Lollipop) branch.
 - Supports Full HD Projection
 
 ## For a Quick Start
-You can start from here : 
+Those who want to quickly start to see and experience NANS platform with Nexus 5 : 
 https://github.com/rubis-lab/NANS_Project_for_Android/wiki/0.-Quick-Start-Guide
 
 
