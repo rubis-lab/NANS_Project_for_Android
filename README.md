@@ -20,8 +20,17 @@ This is Android 5.1.1(Lollipop) branch.
 - Supports individual stacks for each display
 - Supports Full HD Projection
 
+## For a Quick Start
+You can start from here : 
+https://github.com/rubis-lab/NANS_Project_for_Android/wiki/0.-Quick-Start-Guide
+
+
+> **Warning :** Please be aware installing NANS Project requires to build the whole Android platform and flash it to a device. 
+> RUBIS Lab does not take any responsibility for results of flashing your device. 
+
 ## For Developers
-Please be aware installing NANS Project requires to build the whole Android platform and flash it to a device. RUBIS Lab does not take any responsibility for results of flashing your device. For more information, please see this project's Wiki : https://github.com/rubis-lab/NANS_Project_for_Android/wiki. NANS Android consists of two parts: framework modification and client application for controling NANS. For information about downloading Android, please see https://source.android.com/source/downloading.html
+For more information, please see this project's Wiki : https://github.com/rubis-lab/NANS_Project_for_Android/wiki. NANS Android consists of two parts: framework modification and client application for controling NANS. For information about building Android, please refer to Android Open Source Project (https://source.android.com/source/downloading.html).
+
 
 ## Licence
 Our projects are released under [Apache 2.0 Licence] (http://www.apache.org/licenses/LICENSE-2.0.html).
