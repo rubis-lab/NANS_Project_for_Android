@@ -1,7 +1,6 @@
 #NANS Project for Android
 NANS (N-App N-Screen) project for Android is a modification of Android Framework which enables to launch and display multiple applications on multiple displays. The project aims to utilize resources on a smartphone which can connect multiple displays more efficently. Not only mirrors contents but also projects seperately on each display.  It is created by [RUBIS Lab](http://rubis.snu.ac.kr/researches?csrl=25780).
 Currently NANS project supports Android 5.1.1, 5.0.1(Lollipop), 4.4.2 (KitKat) and 4.2.2 (Jelly Bean). 
-This is Android 5.1.1(Lollipop) branch. 
 
 ## Video Demo
 - "NANS Technology with In-Vehicle Infotainment System" 
@@ -13,7 +12,7 @@ This is Android 5.1.1(Lollipop) branch.
 ## Features
 - Android-based mobile technology
 - Supports voice control and external input control
-- Supports Miracast / MHL-HDMI
+- Supports HDMI / Wi-Fi Display
 - Supports external input devices, resolution adaptation and audio source change
 
 ####5.1.1 Lollipop Update
@@ -23,7 +22,6 @@ This is Android 5.1.1(Lollipop) branch.
 ## For a Quick Start
 Those who want to quickly start to see and experience NANS platform with Nexus 5 : 
 https://github.com/rubis-lab/NANS_Project_for_Android/wiki/0.-Quick-Start-Guide
-
 
 > **Warning :** Please be aware installing NANS Project requires to build the whole Android platform and flash it to a device. 
 > RUBIS Lab does not take any responsibility for results of flashing your device. 
