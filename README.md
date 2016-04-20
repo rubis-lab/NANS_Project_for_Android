@@ -42,7 +42,8 @@ You can ask questions or suggestions on our google group:
 https://groups.google.com/forum/#!forum/n-app-n-screen-android
 You may contact Ohchul Kwon <ockwon@rubis.snu.ac.kr> for any questions you may have or bugs that you find.
 
-## Developers
+## Credits
+Thanks to RUBIS Lab. NANS development team members:
 - Ohchul Kwon <ockwon@rubis.snu.ac.kr>
 - Hwansuk Choi <hschoi@rubis.snu.ac.kr>
 - Daechul Park <dcpark@rubis.snu.ac.kr>
