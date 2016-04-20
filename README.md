@@ -20,14 +20,13 @@ Currently NANS project supports Android 5.1.1, 5.0.1(Lollipop).
 - Supports Full HD Projection
 
 ## For a Quick Start
-Those who want to quickly start to see and experience NANS platform with Nexus 5 : 
-https://github.com/rubis-lab/NANS_Project_for_Android/wiki/0.-Quick-Start-Guide
+Those who want to quickly start to see and experience NANS platform with Nexus 5, please see this project's Wiki, [Quick Start Guide](https://github.com/rubis-lab/NANS_Project_for_Android/wiki/0.-Quick-Start-Guide).
 
 > **Warning :** Please be aware that installing NANS platform need to flash system images to the device. 
 > RUBIS Lab does not take any responsibility for results of flashing your device. 
 
 ## For Developers
-For developers, please see this project's Wiki : https://github.com/rubis-lab/NANS_Project_for_Android/wiki/Developer's-Guide. 
+For developers, please see [Developer's Guide](https://github.com/rubis-lab/NANS_Project_for_Android/wiki/Developer's-Guide).
 
 ## Licence
 Our projects are released under [Apache 2.0 Licence] (http://www.apache.org/licenses/LICENSE-2.0.html).
