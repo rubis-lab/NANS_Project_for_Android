@@ -12,7 +12,6 @@
 	limitations under the License.
 -->
 <manifest>
-  <remove-project name="platform/build" />
   <remove-project name="platform/frameworks/av" groups="pdk" />
   <remove-project name="platform/frameworks/base" groups="pdk-cw-fs,pdk-fs" />
   <remove-project name="platform/frameworks/native" groups="pdk" />
