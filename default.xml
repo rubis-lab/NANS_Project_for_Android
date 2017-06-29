@@ -17,7 +17,7 @@
 -->
 <manifest>
   <remote  name="aosp"
-           fetch=".."
+           fetch="https://android.googlesource.com"
            review="https://android-review.googlesource.com/" />
   <default revision="refs/tags/android-7.1.2_r17"
            remote="aosp"
