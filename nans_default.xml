@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- FIRST: Remove unused/forked AOSP Projects -->
+  <include name="nans_remove.xml" />
+  
+  <!-- SECOND: Add NANS Projects -->
+  <project path="frameworks/av" name="NANS_frameworks_av" groups="pdk" remote="rubis-lab" revision="master" />
+  <project path="frameworks/base" name="NANS_platform_frameworks_base" groups="pdk-cw-fs" remote="rubis-lab" revision="master" />
+  <project path="frameworks/native" name="NANS_platform_frameworks_native" groups="pdk" remote="rubis-lab" revision="master" />
+  <project path="hardware/libhardware_legacy" name="NANS_hardware_libhardware_legacy" groups="pdk" remote="rubis-lab" revision="master" />
+  <project path="packages/apps/Settings" name="NANS_platform_packages_apps_Settings" remote="rubis-lab" revision="master" />
+</manifest>
