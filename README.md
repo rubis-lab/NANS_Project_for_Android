@@ -45,9 +45,13 @@ You may contact Ohchul Kwon <ockwon@rubis.snu.ac.kr> for any questions you may h
 ## Credits
 Thanks to RUBIS Lab. NANS development team members:
 - Ohchul Kwon <ockwon@rubis.snu.ac.kr>
+- Wonjae Jang <wjjang@rubis.snu.ac.kr>
+- Giyeon Kim <gompu123@gmail.com>
+- Chang-Gun Lee <cglee@snu.ac.kr>
+
+## Contributors
 - Hwansuk Choi <hschoi@rubis.snu.ac.kr>
 - Daechul Park <dcpark@rubis.snu.ac.kr>
-- Chang-Gun Lee <cglee@snu.ac.kr>
 
 ## About RUBIS Lab.
 RUBIS Lab. is a "Real-time UBiquitous Systems Laboratory" at Seoul National Univercity, Korea.
