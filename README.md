@@ -18,7 +18,7 @@ Currently NANS project supports Android 5.1.1(Lollipop).
 - Supports external input devices, resolution adaptation and audio source change
 
 ## Updates
-- Supports Android mobile platform 7.1.2 (Nougat) (2017. 7.) -- Working on it
+- Supports Android mobile platform 7.1.2 (Nougat) (2017. 7.) → Working on it
 - Supports individual stacks for each display (2016. 10.)
 - Supports Full HD Projection (2016. 10.)
 
