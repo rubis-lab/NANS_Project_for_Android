@@ -3,10 +3,12 @@ NANS (N-App N-Screen) project for Android is a modification of Android Framework
 Currently NANS project supports Android 5.1.1(Lollipop). 
 
 ## Video Demo
-- "NANS Technology with In-Vehicle Infotainment System" 
+- "NANS Technology with In-Vehicle Infotainment System"
+
 [![Video Demo](https://github.com/rubis-lab/images/blob/NANS/NANS.Technology.with.In-Vehicle.Infotainment.System.PNG)](https://youtu.be/KTYCjc8aoMU "NANS Technology with In-Vehicle Infotainment System")
 
 - "N-App N-Screen Control on Android by SNU"
+
 [![Video Demo](https://github.com/rubis-lab/images/blob/NANS/N-App.N-Screen.Control.on.Android.PNG)](https://youtu.be/Y-TmMn7kuhU "N-App N-Screen Control on Android by SNU")
 
 ## Features
@@ -15,9 +17,11 @@ Currently NANS project supports Android 5.1.1(Lollipop).
 - Supports HDMI / Wi-Fi Display
 - Supports external input devices, resolution adaptation and audio source change
 
-####Updates
-- Supports individual stacks for each display
-- Supports Full HD Projection
+## Updates
+- Supports Android mobile platform 7.1.2 (Nougat) (2017. 7.) → Working on it
+- Supports individual stacks for each display (2016. 10.)
+- Supports Full HD Projection (2016. 10.)
+
 
 ## For a Quick Start
 Those who want to quickly start to see and experience NANS platform with Nexus 5, please see this project's Wiki, [Quick Start Guide](https://github.com/rubis-lab/NANS_Project_for_Android/wiki/0.-Quick-Start-Guide).
@@ -45,9 +49,13 @@ You may contact Ohchul Kwon <ockwon@rubis.snu.ac.kr> for any questions you may h
 ## Credits
 Thanks to RUBIS Lab. NANS development team members:
 - Ohchul Kwon <ockwon@rubis.snu.ac.kr>
+- Wonjae Jang <wjjang@rubis.snu.ac.kr>
+- Giyeon Kim <gompu123@gmail.com>
+- Chang-Gun Lee <cglee@snu.ac.kr>
+
+## Contributors
 - Hwansuk Choi <hschoi@rubis.snu.ac.kr>
 - Daechul Park <dcpark@rubis.snu.ac.kr>
-- Chang-Gun Lee <cglee@snu.ac.kr>
 
 ## About RUBIS Lab.
 RUBIS Lab. is a "Real-time UBiquitous Systems Laboratory" at Seoul National Univercity, Korea.
