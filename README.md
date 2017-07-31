@@ -18,10 +18,9 @@ Currently NANS project supports Android 5.1.1(Lollipop).
 - Supports external input devices, resolution adaptation and audio source change
 
 ## Updates
-- Supports Android mobile platform 7.1.2 (Nougat) (2017. 7.) → Working on it
-- Supports individual stacks for each display (2016. 10.)
-- Supports Full HD Projection (2016. 10.)
-
+- Supports Lineage OS 14.1 based on Android 7.1.2.
+- Supports individual stacks for each display.
+- Supports Full HD Projection.
 
 ## For a Quick Start
 Those who want to quickly start to see and experience NANS platform with Nexus 5, please see this project's Wiki, [Quick Start Guide](https://github.com/rubis-lab/NANS_Project_for_Android/wiki/0.-Quick-Start-Guide).
@@ -50,7 +49,6 @@ You may contact Ohchul Kwon <ockwon@rubis.snu.ac.kr> for any questions you may h
 Thanks to RUBIS Lab. NANS development team members:
 - Ohchul Kwon <ockwon@rubis.snu.ac.kr>
 - Wonjae Jang <wjjang@rubis.snu.ac.kr>
-- Giyeon Kim <gompu123@gmail.com>
 - Chang-Gun Lee <cglee@snu.ac.kr>
 
 ## Contributors
