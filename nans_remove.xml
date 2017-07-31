@@ -12,9 +12,9 @@
 	limitations under the License.
 -->
 <manifest>
-  <remove-project name="platform/frameworks/av" groups="pdk" />
-  <remove-project name="platform/frameworks/base" groups="pdk-cw-fs,pdk-fs" />
-  <remove-project name="platform/frameworks/native" groups="pdk" />
-  <remove-project name="platform/hardware/libhardware_legacy" groups="pdk" />
-  <remove-project name="platform/packages/apps/Settings" groups="pdk-fs" />
+  <remove-project name="LineageOS/android_frameworks_av" groups="pdk" />
+  <remove-project name="LineageOS/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
+  <remove-project name="LineageOS/android_frameworks_native" groups="pdk" />
+  <remove-project name="LineageOS/android_hardware_libhardware_legacy" groups="pdk" />
+  <remove-project name="LineageOS/android_packages_apps_Settings" groups="pdk-fs" />
 </manifest>
