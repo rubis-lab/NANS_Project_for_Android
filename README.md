@@ -32,7 +32,7 @@ Those who want to quickly start to see and experience NANS platform with Nexus 5
 For developers, please see [Developer's Guide](https://github.com/rubis-lab/NANS_Project_for_Android/wiki/Developer's-Guide).
 
 ## Licence
-Our projects are released under [Apache 2.0 Licence] (http://www.apache.org/licenses/LICENSE-2.0.html). If you want to use as commercial, cotact us(rubis.chief@gmail.com).
+Our projects are released under [Apache 2.0 Licence] (http://www.apache.org/licenses/LICENSE-2.0.html). If you want to use as commercial, contact us(rubis.chief@gmail.com).
 
 * https://github.com/rubis-lab/NANS_Project_for_Android 
 * https://github.com/rubis-lab/NANS_frameworks_av
